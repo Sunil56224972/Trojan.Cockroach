@@ -96,11 +96,11 @@ The project is perfectly runnable. However, I do not want newbies to abuse my pr
 ### Citation
 ```bibtex
 @misc{Minhas2015TrojanCockroach,
-  author    = {Kamal, Minhas},
+  author    = {Sunil, Yogi},
   title     = {Trojan Cockroach: A Stealthy Trojan Spyware},
-  year      = {2015},
+  year      = {2024},
   publisher = {GitHub},
-  url       = {https://github.com/MinhasKamal/TrojanCockroach}
+  url       = {https://github.com/Sunil56224972/Trojan.Cockroach}
 }
 ```
 
